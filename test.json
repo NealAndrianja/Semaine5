@@ -1,0 +1,177 @@
+[
+    {
+        "marque": "Toyota",
+        "modele": "Yaris",
+        "moteur": "Hybrid",
+        "energie": "Hybride",
+        "transmission": "CVT"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "Corolla",
+        "moteur": "1.8L Hybrid",
+        "energie": "Hybride",
+        "transmission": "CVT"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "C-HR",
+        "moteur": "1.2L Turbo",
+        "energie": "Essence",
+        "transmission": "CVT"
+    },
+    {
+        "marque": "Toyota",
+        "modele": "RAV4",
+        "moteur": "2.5L Hybrid",
+        "energie": "Hybride",
+        "transmission": "CVT"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Clio",
+        "moteur": "1.0L TCe",
+        "energie": "Essence",
+        "transmission": "Bo\u00eete manuelle 5 vitesses"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Captur",
+        "moteur": "1.3L TCe",
+        "energie": "Essence",
+        "transmission": "Bo\u00eete automatique EDC"
+    },
+    {
+        "marque": "Renault",
+        "modele": "M\u00e9gane",
+        "moteur": "1.5L Blue dCi",
+        "energie": "Diesel",
+        "transmission": "Bo\u00eete automatique EDC"
+    },
+    {
+        "marque": "Renault",
+        "modele": "Kadjar",
+        "moteur": "1.5L Blue dCi",
+        "energie": "Diesel",
+        "transmission": "Bo\u00eete automatique EDC"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Polo",
+        "moteur": "1.0L TSI",
+        "energie": "Essence",
+        "transmission": "Bo\u00eete manuelle 5 vitesses"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "T-Roc",
+        "moteur": "1.5L TSI",
+        "energie": "Essence",
+        "transmission": "Bo\u00eete automatique DSG"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Golf",
+        "moteur": "1.5L TSI",
+        "energie": "Essence",
+        "transmission": "Bo\u00eete automatique DSG"
+    },
+    {
+        "marque": "Volkswagen",
+        "modele": "Tiguan",
+        "moteur": "2.0L TDI",
+        "energie": "Diesel",
+        "transmission": "Bo\u00eete automatique DSG"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "108",
+        "moteur": "1.0L PureTech",
+        "energie": "Essence",
+        "transmission": "Bo\u00eete manuelle 5 vitesses"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "208",
+        "moteur": "1.2L PureTech",
+        "energie": "Essence",
+        "transmission": "Bo\u00eete automatique EAT8"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "308",
+        "moteur": "1.5L PureTech",
+        "energie": "Essence",
+        "transmission": "Bo\u00eete automatique EAT8"
+    },
+    {
+        "marque": "Peugeot",
+        "modele": "3008",
+        "moteur": "1.5L BlueHDi",
+        "energie": "Diesel",
+        "transmission": "Bo\u00eete automatique EAT8"
+    },
+    {
+        "marque": "Haval",
+        "modele": "H2",
+        "moteur": "1.5L Turbo",
+        "energie": "Essence",
+        "transmission": "Bo\u00eete manuelle 6 vitesses"
+    },
+    {
+        "marque": "Haval",
+        "modele": "H6",
+        "moteur": "1.5L Turbo",
+        "energie": "Essence",
+        "transmission": "Bo\u00eete automatique DCT"
+    },
+    {
+        "marque": "Haval",
+        "modele": "H9",
+        "moteur": "2.0L Turbo",
+        "energie": "Essence",
+        "transmission": "Bo\u00eete automatique 8 vitesses"
+    },
+    {
+        "marque": "Haval",
+        "modele": "Jolion",
+        "moteur": "1.5L Turbo",
+        "energie": "Essence",
+        "transmission": "Bo\u00eete automatique DCT"
+    },
+    {
+        "marque": "Mercedes",
+        "modele": "Classe A",
+        "moteur": "1.3L Turbo",
+        "energie": "Essence",
+        "transmission": "Bo\u00eete automatique 7G-DCT"
+    },
+    {
+        "marque": "Mercedes",
+        "modele": "GLA",
+        "moteur": "1.3L Turbo",
+        "energie": "Essence",
+        "transmission": "Bo\u00eete automatique 8G-DCT"
+    },
+    {
+        "marque": "Mercedes",
+        "modele": "Classe C",
+        "moteur": "1.5L Turbo",
+        "energie": "Essence",
+        "transmission": "Bo\u00eete automatique 9G-Tronic"
+    },
+    {
+        "marque": "Mercedes",
+        "modele": "GLC",
+        "moteur": "2.0L Diesel",
+        "energie": "Diesel",
+        "transmission": "Bo\u00eete automatique 9G-Tronic"
+    },
+    {
+        "marque": "...",
+        "modele": "...",
+        "moteur": "...",
+        "energie": "...",
+        "transmission": "..."
+    }
+]
